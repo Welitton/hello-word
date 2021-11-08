@@ -1,2 +1,1 @@
-# hello-word
-Utilizando GitHub pela primeira vez
+Utilizando o  GitHub pela primeir vez!  Testando alguns comandos e  desenvolvendo conhecimento.
